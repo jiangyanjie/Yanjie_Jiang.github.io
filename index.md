@@ -5,7 +5,10 @@
 
 ### Publication
 
-TSE'18  FSE/ESEC'19 TSE'20
+TSE'18 
+FSE/ESEC'19 
+TSE'20
+...
 
 ### Honors and Awards
 
@@ -17,6 +20,7 @@ TSE'18  FSE/ESEC'19 TSE'20
 6. 2018，一等学业奖学金
 7. 2017，一等学业奖学金
 8. 2018，学术新星 （NASAC 软件工程前沿学术论坛）
+...
 
 ### Experience
 
