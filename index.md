@@ -5,11 +5,11 @@
 
 ### Publication
 
-1 TSE'18 
+ TSE'18 
 
-2 FSE/ESEC'19 
+ FSE/ESEC'19 
 
-3 TSE'20
+ TSE'20
 ...
 
 ### Honors and Awards
